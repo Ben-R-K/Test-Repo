@@ -1,5 +1,7 @@
 
 
+
+Public void Test(){
 Console.Writeline(no);
 int num = Console.Readline();
 
@@ -10,5 +12,4 @@ Console.Writeline(To low);
 else
 {
 
-}
-
+}}
