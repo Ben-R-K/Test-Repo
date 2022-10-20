@@ -7,3 +7,13 @@ Plan 203
 2:Debug code.
 
 3:Upload code.
+
+Plan 204 
+
+1:Delet repositorys
+
+2:Clone from github
+
+3:change things
+
+4:Push to github
