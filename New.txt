@@ -2,8 +2,8 @@
 
 Plan 203
 
-1:Write code
+1:Write code.
 
-2:Debug code
+2:Debug code.
 
-3:Upload
+3:Upload code.
