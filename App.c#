@@ -1,0 +1,14 @@
+
+
+Console.Writeline(no);
+int num = Console.Readline();
+
+if(num< 10)
+{
+Console.Writeline(To low);
+}
+else
+{
+
+}
+
